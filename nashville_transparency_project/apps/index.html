@@ -1,4 +1,8 @@
 ---
 layout: default
 ---
+{% for app in site.app_collection  %}
+  <li>{{app.title}}</li>
+{% endfor %}
+
 
