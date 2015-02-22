@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Feb 2015 19:36:44 -0600</pubDate>
-    <lastBuildDate>Sat, 21 Feb 2015 19:36:44 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <title>The Nashville Transparency Project</title>
+    <description>The Nashville Transparency Project serves to provide active citizenship in the metropolitan area.</description>
+    <link>http://www.nashvilletransparencyproject.org/</link>
+    <atom:link href="http://www.nashvilletransparencyproject.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Feb 2015 20:35:23 -0600</pubDate>
+    <lastBuildDate>Sat, 21 Feb 2015 20:35:23 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.1</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +27,8 @@
 
 </description>
         <pubDate>Sat, 21 Feb 2015 08:25:23 -0600</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/02/21/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/02/21/welcome-to-jekyll.html</guid>
+        <link>http://www.nashvilletransparencyproject.org/jekyll/update/2015/02/21/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.nashvilletransparencyproject.org/jekyll/update/2015/02/21/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
