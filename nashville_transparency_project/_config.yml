@@ -8,7 +8,7 @@ twitter_username: ntp
 github_username:  code-for-nashville
 
 collections:
-- app_collection
+- appcollection
 
 # Build settings
 markdown: kramdown
