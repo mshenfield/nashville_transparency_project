@@ -3,6 +3,15 @@ layout: default
 ---
 {% for app in site.appcollection  %}
   <h1>{{app.title}}</h1>
+  <div class="col-sm-4 col-xs-6">
+    <div class="panel panel-default">
+      <div class="panel-thumbnail"><a href="#" title="{{app.title}}"><img src="//placehold.it/600x400/444/F8F8F8" class="img-responsive"></a></div>
+        <div class="panel-body">
+          <h1>{{app.title}}</h1>
+          <p>{{app.description}}</p>
+        </div>
+      </div><!--/panel-->
+    </div><!--/col-->
 {% endfor %}
 
 
